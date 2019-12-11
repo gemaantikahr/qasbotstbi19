@@ -1,0 +1,201 @@
+Senin	0015220	Pancasila	A	2	1,2	I	Bita Gadsia Spaltani, S.H., M.H.	4.1.4.51
+1815530	Dasar Sistem Komputer	H	3	1,2	I	Taufiq Ismail, S.T., M.Cs.	4.1.5.64
+1835131	Struktur Data	C	3	1,2	III	Drs., Wahyu Pujiyono, M. Kom.	4.1.4.54
+1835131	Struktur Data	E	3	1,2	III	Rusydi Umar, M.T., Ph.D.	4.1.4.49
+1835241	Statistika Informatika	A	4	1,2,3	III	Sri Winiarti, S.T., M.Cs.	4.1.4.53
+1835341	Basis Data	F	4	1,2,3	III	Anna Hendri Soleliza Jones, S.Kom., M.Cs.	4.1.4.52
+0015220	Pancasila	B	2	3,4	I	Bita Gadsia Spaltani, S.H., M.H.	4.1.4.51
+1815431	Logika Informatika	I	3	3,4	I	Arfiani Nur Khusna, S.T., M.Kom.	4.1.4.50
+1835131	Struktur Data	B	3	3,4	III	Drs., Wahyu Pujiyono, M. Kom.	4.1.4.54
+1855330	Rekayasa Kebutuhan Sistem	A	2	3,4	V	Sri Handayaningsih, S.T., M.T.	4.1.4.49
+1835241	Statistika Informatika	G	4	4,5,6	III	Dewi Pramudi Ismi, S.T., M.CompSc	4.1.4.52
+1835341	Basis Data	A	4	4,5,6	III	Dewi Soyusiowaty, S.T., M.T.	4.1.4.53
+0015220	Pancasila	C	2	5,6	I	Ilham Yuli Isdiyanto, S.H., M.H.	4.1.4.51
+1815620	Komunikasi Interpersonal	I	2	5,6	I	Bambang Robiin, S.T.,M.T.	4.1.4.50
+1835431	Pemrograman Berorientasi Objek	C	3	5,6	III	Supriyanto, S.T., M.T.	4.1.4.54
+1875831	Pemrograman Paralel	A	3	5,6	VII	Rusydi Umar, M.T., Ph.D.	4.1.4.49
+0015320	Ulumul Quran dan Hadist	A	2	7,8	I	Dr., Mardjoko, M.Ag.	4.1.4.51
+1815120	Kalkulus Informatika	C	2	7,8	I	Murinto, S.Si., M.Kom.	4.1.4.50
+1835241	Statistika Informatika	H	4	7,8,9	III	Dewi Pramudi Ismi, S.T., M.CompSc	4.1.4.52
+1835341	Basis Data	G	4	7,8,9	III	Anna Hendri Soleliza Jones, S.Kom., M.Cs.	4.1.4.53
+1855131	Keamanan Komputer	A	3	7,8	V	Nur Rochmah Dyah PA, S.T., M.Kom.	4.1.4.49
+1855620	Teori Bahasa Otomata	C	2	7,8	V	Ir., Ardi Pujiyanta, M.T.	4.1.4.54
+0015320	Ulumul Quran dan Hadist	B	2	9,10	I	Dr., Mardjoko, M.Ag.	4.1.4.51
+1815120	Kalkulus Informatika	D	2	9,10	I	Adhi Prahara, S.Si., M.Cs.	4.1.4.50
+1855620	Teori Bahasa Otomata	A	2	9,10	V	Dewi Soyusiowaty, S.T., M.T.	4.1.4.54
+1875331	Komputer Visi	A	3	9,10	VII	Murinto, S.Si., M.Kom.	4.1.4.49
+1815230	Dasar Pemrograman	I	3	10,11,12	I	Bambang Robiin, S.T.,M.T.	4.1.4.52
+1835530	Komunikasi Data dan Jaringan Komputer	E	3	10,11,12	III	Mushlihudin, S.T., M.T.	4.1.4.53
+0015120	Bahasa Inggris Informatika	A	2	11,12	I	Ramadhani Uswatun Khasanah,, M. Pd
+Drs., NIZAM AHSANI, M.Hum.	4.1.4.49
+0015320	Ulumul Quran dan Hadist	C	2	11,12	I	Alda Kartika Yudha, Lc, M.H.	4.1.4.51
+0035520	Aqidah Islam	A	2	11,12	III	Drs. H., Ahmad Muhajir, M.A.	4.1.4.38
+1815620	Komunikasi Interpersonal	B	2	11,12	I	Jefree Fahana, S.T., M.Kom	4.1.4.54
+1835131	Struktur Data	Internasional	3	11,12	III	Dewi Pramudi Ismi, S.T., M.CompSc	4.1.4.34
+1855620	Teori Bahasa Otomata	E	2	11,12	V	Murein Miksa Mardhia, S.T., M.T.	4.1.4.50
+0055620	Bahasa Indonesia	B	2	13,14	V	Lutfiatun Latifah, M.Pd.
+Roni Sulistiyono, M.Pd.	4.1.2.10
+Selasa	0015120	Bahasa Inggris Informatika	B	2	1,2	I	Ramadhani Uswatun Khasanah,, M. Pd
+Drs., NIZAM AHSANI, M.Hum.	4.1.4.50
+1815230	Dasar Pemrograman	C	3	1,2,3	I	Dewi Pramudi Ismi, S.T., M.CompSc	4.1.4.53
+1835131	Struktur Data	A	3	1,2	III	Drs., Wahyu Pujiyono, M. Kom.	4.1.4.51
+1835241	Statistika Informatika	B	4	1,2,3	III	Sri Winiarti, S.T., M.Cs.
+Miftahurrahma Rosyda, S.Kom., M.Eng.	4.1.4.52
+1835241	Statistika Informatika	F	4	1,2,3	III	Lisna Zahrotun, S.T., M.Cs.	4.1.4.47
+1835241	Statistika Informatika	Internasional	4	1,2,3	III	Anna Hendri Soleliza Jones, S.Kom., M.Cs.	4.1.9.85
+1835341	Basis Data	E	4	1,2,3	III	Jefree Fahana, S.T., M.Kom	4.1.4.48
+1875731	Forensik Digital	B	3	1,2	VII	Dr., H. Imam Riadi, M.Kom.	4.1.4.54
+1815431	Logika Informatika	D	3	3,4	I	Dwi Normawati, S.T., M.Eng.	4.1.4.50
+1835131	Struktur Data	D	3	3,4	III	Drs., Wahyu Pujiyono, M. Kom.	4.1.4.51
+1975120	Metodologi Penelitian	C	2	3,4	VII	Nur Rochmah Dyah PA, S.T., M.Kom.	4.1.4.54
+1815230	Dasar Pemrograman	A	3	4,5,6	I	Supriyanto, S.T., M.T.	4.1.4.52
+1835241	Statistika Informatika	E	4	4,5,6	III	Lisna Zahrotun, S.T., M.Cs.	4.1.4.47
+1815431	Logika Informatika	E	3	5,6	I	Dwi Normawati, S.T., M.Eng.	4.1.4.50
+1835131	Struktur Data	F	3	5,6	III	Rusydi Umar, M.T., Ph.D.	4.1.4.51
+1855431	Pemrograman Mobile	B	3	5,6	V	Ika Arfiani, S.T., M.Cs.	4.1.4.54
+1855620	Teori Bahasa Otomata	D	2	5,6	V	Murein Miksa Mardhia, S.T., M.T.	4.1.4.49
+0015220	Pancasila	E	2	7,8	I	Bita Gadsia Spaltani, S.H., M.H.	4.1.3.28
+1815431	Logika Informatika	G	3	7,8	I	Arfiani Nur Khusna, S.T., M.Kom.	4.1.4.50
+1835341	Basis Data	B	4	7,8,9	III	Dewi Soyusiowaty, S.T., M.T.	4.1.4.52
+1835341	Basis Data	D	4	7,8,9	III	Sri Winiarti, S.T., M.Cs.	4.1.4.51
+1855131	Keamanan Komputer	B	3	7,8	V	Nur Rochmah Dyah PA, S.T., M.Kom.	4.1.4.53
+1855431	Pemrograman Mobile	A	3	7,8	V	Ika Arfiani, S.T., M.Cs.	4.1.4.54
+1875431	Data Mining	A	3	7,8	VII	Ir., Ardi Pujiyanta, M.T.	4.1.4.49
+0015120	Bahasa Inggris Informatika	D	2	9,10	I	LIA AMALIA AMRINA	4.1.4.54
+0015120	Bahasa Inggris Informatika	E	2	9,10	I	Fauzia, S.Pd., M.A.	4.1.4.53
+1815230	Dasar Pemrograman	B	3	10,11,12	I	Supriyanto, S.T., M.T.	4.2.2.02
+1815230	Dasar Pemrograman	H	3	10,11,12	I	Bambang Robiin, S.T.,M.T.	4.1.4.52
+1835341	Basis Data	C	4	10,11,12	III	Dewi Soyusiowaty, S.T., M.T.	4.1.4.51
+1835530	Komunikasi Data dan Jaringan Komputer	D	3	10,11,12	III	Mushlihudin, S.T., M.T.	4.1.4.48
+1835530	Komunikasi Data dan Jaringan Komputer	Internasional	3	10,11,12	III	Ahmad Azhari, S.Kom., M.Eng.	4.1.5.72
+0015320	Ulumul Quran dan Hadist	E	2	11,12	I	Alda Kartika Yudha, Lc, M.H.	4.1.4.50
+0015220	Pancasila	H	2	13,14	I	DWI RIYANTI, S.Pd., M.Pd.	4.1.3.11
+Rabu	0015120	Bahasa Inggris Informatika	C	2	1,2	I	Ramadhani Uswatun Khasanah,, M. Pd
+Drs., NIZAM AHSANI, M.Hum.	4.1.4.51
+0015120	Bahasa Inggris Informatika	F	2	1,2	I	Fauzia, S.Pd., M.A.	4.1.4.52
+0015220	Pancasila	D	2	1,2	I	Ilham Yuli Isdiyanto, S.H., M.H.	4.1.4.54
+0015320	Ulumul Quran dan Hadist	G	2	1,2	I	Dr., Uki Sukiman, M.Ag	4.1.4.48
+1815230	Dasar Pemrograman	E	3	1,2,3	I	Guntur Maulana Zamroni, B.Sc., M.Kom.	4.1.4.50
+1835341	Basis Data	H	4	1,2,3	III	Anna Hendri Soleliza Jones, S.Kom., M.Cs.	4.1.4.53
+1835431	Pemrograman Berorientasi Objek	A	3	1,2	III	Ir., Ardi Pujiyanta, M.T.	4.1.4.49
+0015220	Pancasila	F	2	3,4	I	Ilham Yuli Isdiyanto, S.H., M.H.	4.1.4.54
+1815431	Logika Informatika	H	3	3,4	I	Arfiani Nur Khusna, S.T., M.Kom.	4.1.4.52
+1815530	Dasar Sistem Komputer	A	3	3,4	I	Ali Tarmuji, S.T., M.Cs.	4.1.4.51
+1815530	Dasar Sistem Komputer	G	3	3,4	I	Taufiq Ismail, S.T., M.Cs.	4.1.4.45
+1855620	Teori Bahasa Otomata	B	2	3,4	V	Dewi Soyusiowaty, S.T., M.T.	4.1.4.49
+1815230	Dasar Pemrograman	D	3	4,5,6	I	Dewi Pramudi Ismi, S.T., M.CompSc	4.1.4.50
+1835241	Statistika Informatika	D	4	4,5,6	III	Lisna Zahrotun, S.T., M.Cs.	4.1.4.53
+1815431	Logika Informatika	F	3	5,6	I	Fitri Indra Indikawati, S.Kom, M.Eng	4.1.4.52
+1815530	Dasar Sistem Komputer	B	3	5,6	I	Ali Tarmuji, S.T., M.Cs.	4.1.4.51
+1865631	Pemrograman Web Dinamis	A	3	5,6	VI	Bambang Robiin, S.T.,M.T.	4.1.4.49
+1975120	Metodologi Penelitian	A	2	5,6	VII	Dewi Soyusiowaty, S.T., M.T.	4.1.4.48
+1815530	Dasar Sistem Komputer	C	3	7,8	I	Ali Tarmuji, S.T., M.Cs.	4.1.4.51
+1815620	Komunikasi Interpersonal	A	2	7,8	I	Jefree Fahana, S.T., M.Kom	4.1.4.54
+1815620	Komunikasi Interpersonal	F	2	7,8	I	Dwi Normawati, S.T., M.Eng.	4.1.4.52
+1835530	Komunikasi Data dan Jaringan Komputer	C	3	7,8,9	III	Taufiq Ismail, S.T., M.Cs.	4.1.4.53
+1875431	Data Mining	B	3	7,8	VII	Lisna Zahrotun, S.T., M.Cs.	4.1.4.50
+1875930	Sistem Temu Balik Informasi	A	3	7,8	VII	Arfiani Nur Khusna, S.T., M.Kom.	4.1.4.49
+0015120	Bahasa Inggris Informatika	G	2	9,10	I	Ivan Nugraha Hussein, S.S., M.A.
+Wajiran, S.S., M.A.	4.1.4.52
+0035520	Aqidah Islam	C	2	9,10	III	Drs. H., Ahmad Muhajir, M.A.	4.1.3.26
+1815620	Komunikasi Interpersonal	C	2	9,10	I	Jefree Fahana, S.T., M.Kom	4.1.4.54
+1815620	Komunikasi Interpersonal	H	2	9,10	I	Bambang Robiin, S.T.,M.T.	4.1.4.51
+1835131	Struktur Data	G	3	9,10	III	Rusydi Umar, M.T., Ph.D.	4.1.4.50
+1835530	Komunikasi Data dan Jaringan Komputer	F	3	10,11,12	III	Mushlihudin, S.T., M.T.	4.1.4.53
+0015320	Ulumul Quran dan Hadist	F	2	11,12	I	Dr., Uki Sukiman, M.Ag	4.1.4.52
+0035520	Aqidah Islam	D	2	11,12	III	Drs. H., Ahmad Muhajir, M.A.	4.1.3.26
+0055620	Bahasa Indonesia	A	2	11,12	V	Lutfiatun Latifah, M.Pd.
+Roni Sulistiyono, M.Pd.	4.1.4.54
+0055620	Bahasa Indonesia	C	2	13,14	V	Lutfiatun Latifah, M.Pd.
+Roni Sulistiyono, M.Pd.	4.1.2.09
+Kamis	0015220	Pancasila	G	2	1,2	I	DWI RIYANTI, S.Pd., M.Pd.	4.1.4.53
+1815530	Dasar Sistem Komputer	E	3	1,2	I	Ahmad Azhari, S.Kom., M.Eng.	4.1.4.52
+1835131	Struktur Data	H	3	1,2	III	Ir., Ardi Pujiyanta, M.T.	4.1.4.54
+1835241	Statistika Informatika	C	4	1,2,3	III	Sri Winiarti, S.T., M.Cs.	4.1.4.50
+1835530	Komunikasi Data dan Jaringan Komputer	A	3	1,2,3	III	Taufiq Ismail, S.T., M.Cs.
+Dinan Yulianto, S.T., M.Eng.	4.2.2.02
+1855431	Pemrograman Mobile	D	3	1,2	V	Guntur Maulana Zamroni, B.Sc., M.Kom.	4.1.4.51
+0015220	Pancasila	I	2	3,4	I	Chory prima sari, S.Pd., M.H	4.1.4.53
+1815120	Kalkulus Informatika	F	2	3,4	I	Murein Miksa Mardhia, S.T., M.T.
+Faisal Fajri Rahani, S.Si., M.Cs.	4.1.4.52
+1815431	Logika Informatika	A	3	3,4	I	Nur Rochmah Dyah PA, S.T., M.Kom.	4.1.4.49
+1815620	Komunikasi Interpersonal	G	2	3,4	I	Dwi Normawati, S.T., M.Eng.	4.1.4.54
+1835431	Pemrograman Berorientasi Objek	G	3	3,4	III	Ali Tarmuji, S.T., M.Cs.	4.1.4.51
+1855230	Interaksi Manusia dan Komputer	A	3	4,5,6	V	Supriyanto, S.T., M.T.	4.1.4.50
+1815431	Logika Informatika	C	3	5,6	I	Dwi Normawati, S.T., M.Eng.	4.1.4.52
+1835431	Pemrograman Berorientasi Objek	H	3	5,6	III	Ali Tarmuji, S.T., M.Cs.	4.1.4.51
+1855431	Pemrograman Mobile	C	3	5,6	V	Ika Arfiani, S.T., M.Cs.	4.1.4.54
+1975120	Metodologi Penelitian	B	2	5,6	VII	Sri Winiarti, S.T., M.Cs.	4.1.4.48
+1815120	Kalkulus Informatika	I	2	7,8	I	Ahmad Azhari, S.Kom., M.Eng.	4.1.4.52
+1835530	Komunikasi Data dan Jaringan Komputer	B	3	7,8,9	III	Taufiq Ismail, S.T., M.Cs.	4.1.4.50
+1835530	Komunikasi Data dan Jaringan Komputer	G	3	7,8,9	III	Nuril Anwar, S.T., M.Kom	4.1.4.53
+1855230	Interaksi Manusia dan Komputer	C	3	7,8,9	V	Jefree Fahana, S.T., M.Kom	4.1.4.49
+1855522	Kerja Praktek	E	2	7,8	V	Ika Arfiani, S.T., M.Cs.	4.1.4.54
+1876031	Penjaminan Kualitas Perangkat Lunak	A	3	7,8	VII	Ali Tarmuji, S.T., M.Cs.	4.1.4.51
+1815120	Kalkulus Informatika	H	2	9,10	I	Ahmad Azhari, S.Kom., M.Eng.	4.1.4.51
+1835431	Pemrograman Berorientasi Objek	Internasional	3	9,10	III	Adhi Prahara, S.Si., M.Cs.	4.1.4.34
+1835530	Komunikasi Data dan Jaringan Komputer	H	3	10,11,12	III	Nuril Anwar, S.T., M.Kom	4.1.4.53
+1855230	Interaksi Manusia dan Komputer	B	3	10,11,12	V	Jefree Fahana, S.T., M.Kom	4.1.4.49
+1855230	Interaksi Manusia dan Komputer	D	3	10,11,12	V	Murein Miksa Mardhia, S.T., M.T.	4.1.4.50
+1835431	Pemrograman Berorientasi Objek	D	3	11,12	III	Supriyanto, S.T., M.T.	4.1.4.52
+1855131	Keamanan Komputer	E	3	11,12	V	Mushlihudin, S.T., M.T.	4.1.4.51
+1865631	Pemrograman Web Dinamis	B	3	11,12	VI	Bambang Robiin, S.T.,M.T.	4.1.3.29
+Jumat	1815530	Dasar Sistem Komputer	I	3	1,2	I	Taufiq Ismail, S.T., M.Cs.
+Miftahurrahma Rosyda, S.Kom., M.Eng.	4.1.7.80
+1835431	Pemrograman Berorientasi Objek	B	3	1,2	III	Ir., Ardi Pujiyanta, M.T.	4.1.4.50
+1975120	Metodologi Penelitian	D	2	1,2	VII	Drs., Wahyu Pujiyono, M. Kom.	4.1.4.51
+0015120	Bahasa Inggris Informatika	I	2	3,4	I	Kartika Juni Ambarita, S.S., M.A.	4.1.4.51
+0075320	Islam Interdisipliner	A	2	3,4	VII	Devi Andriyanti, M.A.	3.1.221
+0015120	Bahasa Inggris Informatika	H	2	4,5	I	Ivan Nugraha Hussein, S.S., M.A.
+Wajiran, S.S., M.A.	4.1.4.53
+1815120	Kalkulus Informatika	G	2	7,8	I	Murein Miksa Mardhia, S.T., M.T.	4.1.4.51
+1815230	Dasar Pemrograman	F	3	7,8,9	I	Fitri Indra Indikawati, S.Kom, M.Eng	4.1.4.54
+1815431	Logika Informatika	B	3	7,8	I	Dwi Normawati, S.T., M.Eng.	4.1.4.50
+1815620	Komunikasi Interpersonal	D	2	7,8	I	Guntur Maulana Zamroni, B.Sc., M.Kom.	4.1.4.53
+1855131	Keamanan Komputer	C	3	7,8	V	Nuril Anwar, S.T., M.Kom	4.1.4.52
+1875930	Sistem Temu Balik Informasi	B	3	7,8	VII	Anna Hendri Soleliza Jones, S.Kom., M.Cs.	4.1.4.48
+1815530	Dasar Sistem Komputer	D	3	9,10	I	Ahmad Azhari, S.Kom., M.Eng.	4.1.6.A
+1815620	Komunikasi Interpersonal	E	2	9,10	I	Guntur Maulana Zamroni, B.Sc., M.Kom.	4.1.4.53
+1835431	Pemrograman Berorientasi Objek	E	3	9,10	III	Adhi Prahara, S.Si., M.Cs.	4.1.4.51
+1875731	Forensik Digital	A	3	9,10	VII	Nuril Anwar, S.T., M.Kom	4.1.4.52
+1855230	Interaksi Manusia dan Komputer	E	3	10,11,12	V	Murein Miksa Mardhia, S.T., M.T.	4.1.4.54
+0035520	Aqidah Islam	E	2	11,12	III	Abdul Hopid, S.Pd.I., M.Ag.	4.1.4.53
+1815530	Dasar Sistem Komputer	F	3	11,12	I	Ahmad Azhari, S.Kom., M.Eng.	4.1.6.A
+1855131	Keamanan Komputer	D	3	11,12	V	Mushlihudin, S.T., M.T.	4.1.4.52
+1875631	Grafika Lanjut	A	3	11,12	VII	Adhi Prahara, S.Si., M.Cs.	4.1.4.51
+Sabtu	0035520	Aqidah Islam	F	2	1,2	III	Abdul Hopid, S.Pd.I., M.Ag.	4.1.4.54
+0055620	Bahasa Indonesia	D	2	1,2	V	Lutfiatun Latifah, M.Pd.
+Roni Sulistiyono, M.Pd.	4.1.4.52
+1855330	Rekayasa Kebutuhan Sistem	B	2	1,2	V	Ardiansyah, S.T., M.Cs.	4.1.4.53
+1875220	Bahasa Inggris Profesional	A	2	1,2	VII	Dwi Nita Febriyanti, S.Pd.,M.Hum
+Wajiran, S.S., M.A.	4.1.4.51
+0035520	Aqidah Islam	B	2	3,4	III	Drs. H., Ahmad Muhajir, M.A.	4.1.7.79
+0035520	Aqidah Islam	G	2	3,4	III	Abdul Hopid, S.Pd.I., M.Ag.	4.1.4.54
+1815120	Kalkulus Informatika	A	2	3,4	I	Murinto, S.Si., M.Kom.	4.1.4.52
+1855330	Rekayasa Kebutuhan Sistem	C	2	3,4	V	Ardiansyah, S.T., M.Cs.	4.1.4.53
+1875220	Bahasa Inggris Profesional	B	2	3,4	VII	Dwi Nita Febriyanti, S.Pd.,M.Hum
+Wajiran, S.S., M.A.	4.1.4.51
+1835341	Basis Data	Internasional	4	4,5,6	III	Murein Miksa Mardhia, S.T., M.T.	4.1.5.68
+0035520	Aqidah Islam	H	2	5,6	III	Abdul Hopid, S.Pd.I., M.Ag.	4.1.4.54
+0055620	Bahasa Indonesia	E	2	5,6	V	Lutfiatun Latifah, M.Pd.
+Roni Sulistiyono, M.Pd.	4.1.4.35
+1815120	Kalkulus Informatika	B	2	5,6	I	Murinto, S.Si., M.Kom.	4.1.4.52
+1865131	Manajemen Tugas Proyek	A	3	5,6	VI	Nuril Anwar, S.T., M.Kom	4.1.4.53
+1875220	Bahasa Inggris Profesional	C	2	5,6	VII	Tri Septiana Kurniati, M.Hum.
+Wajiran, S.S., M.A.	4.1.4.51
+0035520	Aqidah Islam	Internasional	2	7,8	III	Abdul Hopid, S.Pd.I., M.Ag.	4.1.4.54
+1815230	Dasar Pemrograman	G	3	7,8,9	I	Fitri Indra Indikawati, S.Kom, M.Eng	4.1.4.47
+1855330	Rekayasa Kebutuhan Sistem	D	2	7,8	V	Ardiansyah, S.T., M.Cs.	4.1.4.52
+1855522	Kerja Praktek	A	2	7,8	V	Nuril Anwar, S.T., M.Kom	4.1.4.53
+1855522	Kerja Praktek	C	2	7,8	V	Arfiani Nur Khusna, S.T., M.Kom.	4.1.4.50
+1875220	Bahasa Inggris Profesional	D	2	7,8	VII	Tri Septiana Kurniati, M.Hum.
+Wajiran, S.S., M.A.	4.1.4.51
+0015320	Ulumul Quran dan Hadist	H	2	9,10	I	Dr., Uki Sukiman, M.Ag	4.1.6.76
+1815120	Kalkulus Informatika	E	2	9,10	I	Adhi Prahara, S.Si., M.Cs.	4.1.4.54
+1855330	Rekayasa Kebutuhan Sistem	E	2	9,10	V	Ardiansyah, S.T., M.Cs.	4.1.4.52
+1855522	Kerja Praktek	B	2	9,10	V	Nuril Anwar, S.T., M.Kom	4.1.4.53
+1855522	Kerja Praktek	D	2	9,10	V	Arfiani Nur Khusna, S.T., M.Kom.	4.1.4.50
+0015320	Ulumul Quran dan Hadist	D	2	11,12	I	Alda Kartika Yudha, Lc, M.H.	4.1.4.49
+0015320	Ulumul Quran dan Hadist	I	2	11,12	I	Dr., Uki Sukiman, M.Ag	4.1.6.76
+1835431	Pemrograman Berorientasi Objek	F	3	11,12	III	Adhi Prahara, S.Si., M.Cs.	4.1.4.54
+1855431	Pemrograman Mobile	E	3	11,12	V	Guntur Maulana Zamroni, B.Sc., M.Kom.	4.1.4.52
