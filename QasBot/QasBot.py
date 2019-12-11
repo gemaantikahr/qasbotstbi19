@@ -100,7 +100,7 @@ def error(bot, update, error):
     logger.warning('Update "%s" caused error "%s"' % (update, error))
 
 def main():
-    updater = Updater('1022531797:AAExKb_DfXyI578PJ2tKzbUEO6OBTA_gHlA')
+    updater = Updater('1022531797:AAExKb_DfXyI578PJ2tKzsbUEO6OBTA_gHlA')
     dp = updater.dispatcher
     dp.add_handler(CommandHandler('start', start))
     # dp.add_handler(CommandHandler('quran', quran, pass_args=True))
